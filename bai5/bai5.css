@@ -1,0 +1,26 @@
+body {
+    font-family: Arial, sans-serif;
+}
+
+.container {
+    width: 60%;
+    margin: 20px auto;
+}
+
+.box {
+    background-color: #FFF8DC;
+    padding: 15px;
+    border-left: 4px solid #FFD700;
+}
+
+code {
+    background-color: #f4f4f4;
+    padding: 5px;
+    border-radius: 5px;
+}
+
+pre {
+    padding: 10px;
+    border-radius: 5px;
+    overflow-x: auto;
+}
